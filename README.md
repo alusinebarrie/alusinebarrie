@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alusinebarrie
-- 👀 I’m interested in Maching Learning, Python, Django, C++, SQL
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on using Machine Learning (Python and C++) to help organizations make sounder decisions
+- 👀 I’m interested in Data Science Maching Learning with Python and SQL
+- 🌱 I’m currently learning about AI
+- 💞️ I’m looking to collaborate on using Data Science and Machine Learning Techniques (Python) to support data-driven and algorithmic decision making.
 - 📫 How to reach me; alusine148@gmail.com
 
 <!---
