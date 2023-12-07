@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alusinebarrie
-- 👀 I’m interested in Data Science Maching Learning with Python and SQL
-- 🌱 I’m currently learning about AI
-- 💞️ I’m looking to collaborate on using Data Science and Machine Learning Techniques (Python) to support data-driven and algorithmic decision making.
+- 👀 I’m interested in Data Science with Python, SQL, Power BI, & Tableau
+- 🌱 I’m currently learning about ChatGPT
+- 💞️ I’m looking to collaborate on using Data Science and Machine Learning Techniques (Python) to data-driven decision making.
 - 📫 How to reach me; alusine148@gmail.com
 
 <!---
